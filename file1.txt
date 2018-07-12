@@ -3,6 +3,6 @@ Printf("Hello World");
 printf("this is second text");
 
 
-Printf("Hello World");
 
-printf("this is second text");
+
+printf("this is 3rd text");
